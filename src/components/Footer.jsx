@@ -8,7 +8,7 @@ const Footer = () => {
       <div className="md:place-self-center md:justify-self-end w-full">
         <div className="w-full flex flex-row items-center md:justify-end gap-5 justify-around">
           <a href="">
-            <img src="/socials/discord.png" width={40} />
+            <img src="https://discord.gg/JDEEYWThGX" width={40} />
           </a>
           <a href="https://www.instagram.com/dscommunity_srm/">
             <img src="/socials/instagram.png" width={30} />
